@@ -12,7 +12,6 @@ body {
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
-    background-color: #303a52
 }
 
 // colors
@@ -231,6 +230,10 @@ button:focus {
 }
 
 // Button end
+.text-center {
+    text-align: center;
+}
+
 // Anchor tag
 a {
     text-decoration: none;

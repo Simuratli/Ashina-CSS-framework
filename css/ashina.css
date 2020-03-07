@@ -7,7 +7,6 @@ body {
           box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
   overflow-x: hidden;
-  background-color: #303a52;
 }
 
 .bgColorDanger {
@@ -220,6 +219,10 @@ button:focus {
 .outline-warn:hover {
   background-color: #F1C40F;
   color: #F7F9F9;
+}
+
+.text-center {
+  text-align: center;
 }
 
 a {
