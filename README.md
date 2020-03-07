@@ -6,10 +6,11 @@
 * [Use](#use)
 * [Navbar](#navbar)
 * [Forms](#forms)
+* [Containers](#containers)
+* [Cards](#cards)
 * [Buttons](#buttons)
 * [Backgoround color](#bgcoolor)
 * [Text color](#textcoolor)
-* [Cards](#cards)
 * [Flexbox](#flexbox)
 
 
@@ -172,3 +173,53 @@
 ### Top image card seen like that
 
 <a href="#card"><img src="https://i.hizliresim.com/6WXJD5.png" title="Top image card" alt="Top image card"></a>
+
+
+
+# Containers 
+
+#### There are 3 type of container
+* Large
+* Medium
+* Small 
+
+## Large Container
+```html
+<div class='fullContainer'></div>
+```
+it cover width:100% of html page
+
+## Medium Container 
+```html
+<div class='container'></div>
+```
+ it cover width:95% of html page
+
+ ## Small Container 
+```html
+<div class='smallContainer'></div>
+```
+ it cover width:80% of html page
+
+
+# Buttons
+    There have 3 type of buttons
+
+* Normal buttons
+* Rounded buttons
+* Outlined buttons
+
+## Normal Buttons
+
+```html
+<button class="infoButton">Info</button>
+<button class="warnButton">Warning</button>
+<button class="dangerButton">Danger</button>
+<button class="successButton">Success</button>
+<button class="gradientButton">Gradiend</button>
+```
+
+
+<a href="#card"><img src="https://i.hizliresim.com/0bLiuT.png" title="Top image card" alt="Top image card"></a>
+
+
