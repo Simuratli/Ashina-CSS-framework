@@ -271,3 +271,18 @@ it cover width:100% of html page
 ```
 
 <a href="#buttons"><img src="https://i.hizliresim.com/ReFx4y.png" title="Buttons" alt="Buttons"></a>
+
+
+# Background Colors
+> Using different classes you can made colorful your template
+> Ashina hava a 4 main color and 1 gradient color
+
+```shell
+    .bgColorDanger 
+    .bgColorInfo
+    .bgColorSuccess
+    .bgColorWarn
+    .bgColorGradient
+```
+
+<a href="#buttons"><img src="https://i.hizliresim.com/qMnwVf.jpg" title="Background color" alt="Background color"></a>
