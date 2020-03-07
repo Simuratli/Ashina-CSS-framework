@@ -286,3 +286,31 @@ it cover width:100% of html page
 ```
 
 <a href="#buttons"><img src="https://i.hizliresim.com/qMnwVf.jpg" title="Background color" alt="Background color"></a>
+
+# Text Color
+
+> There have 2 main text color Black and white
+
+```html
+<p class='textDark'></p>
+<p class='textWhite'></p>
+```
+
+
+# Flex system
+The Ashina included flex system with 12 columns.
+
+```shell
+.col-1
+.col-2
+.col-3
+.col-4
+.col-5
+.col-6
+.col-7
+.col-8
+.col-9
+.col-10
+.col-11
+.col-12
+```
