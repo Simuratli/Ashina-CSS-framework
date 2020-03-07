@@ -171,4 +171,4 @@
 
 ### Top image card seen like that
 
-<a href="#card"><img src="https://i.hizliresim.com/PNNkXK.png" title="Top image card" alt="Top image card"></a>
+<a href="#card"><img src="https://i.hizliresim.com/6WXJD5.png" title="Top image card" alt="Top image card"></a>
