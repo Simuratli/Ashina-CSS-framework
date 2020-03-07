@@ -203,11 +203,13 @@ it cover width:100% of html page
 
 
 # Buttons
-    There have 3 type of buttons
+    There have 4 type of buttons
 
 * Normal buttons
 * Rounded buttons
 * Outlined buttons
+* Small buttons
+
 
 ## Normal Buttons
 
@@ -220,6 +222,52 @@ it cover width:100% of html page
 ```
 
 
-<a href="#card"><img src="https://i.hizliresim.com/0bLiuT.png" title="Top image card" alt="Top image card"></a>
+<a href="#buttons"><img src="https://i.hizliresim.com/0bLiuT.png" title="Buttons" alt="Buttons"></a>
 
 
+## Rounded Buttons
+> you can make your button rounded only added rounded class
+
+
+```html
+<button class="infoButton rounded ">Info</button>
+<button class="warnButton rounded">Warning</button>
+<button class="dangerButton rounded">Danger</button>
+<button class="successButton rounded">Success</button>
+<button class="gradientButton rounded">Gradiend</button>
+```
+
+<a href="#buttons"><img src="https://i.hizliresim.com/i5qHix.png" title="Buttons" alt="Buttons"></a>
+
+
+## Outlined Buttons
+
+
+```html
+<button class="outline-info ">Outline Info</button>
+<button class="outline-success">Outline Success</button>
+<button class="outline-danger">Outline-danger</button>
+<button class="outline-warn">Outline-warn</button>
+```
+
+<a href="#buttons"><img src="https://i.hizliresim.com/B3tiwv.png" title="Buttons" alt="Buttons"></a>
+
+
+
+
+## Small Buttons
+> you can make your button SMALL only added rounded class
+
+```html
+<button class="outline-info smallButton ">Outline Info</button>
+<button class="outline-success smallButton">Outline Success</button>
+<button class="outline-danger smallButton">Outline-danger</button>
+<button class="outline-warn smallButton">Outline-warn</button>
+<button class="infoButton smallButton">Info</button>
+<button class="warnButton smallButton">Warning</button>
+<button class="dangerButton smallButton">Danger</button>
+<button class="successButton smallButton">Success</button>
+<button class="gradientButton smallButton">Gradiend</button>
+```
+
+<a href="#buttons"><img src="https://i.hizliresim.com/ReFx4y.png" title="Buttons" alt="Buttons"></a>
