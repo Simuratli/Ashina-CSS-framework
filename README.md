@@ -43,4 +43,4 @@
             </div>
 ```
 *It seen like that* 
-<a href="#navbar"><img src="img/Navbar.png" title="Navbar" alt="navbar"></a>
+<a href="#navbar"><img src="https://i.hizliresim.com/6INBa9.png" title="Navbar" alt="navbar"></a>
