@@ -62,7 +62,7 @@
       <div class="text-center">
           <h1>Login form</h1>
        </div>
-        <form class="form" action="">
+        <form class="form">
             <label class="label">Name
                 <input class="formElement" placeholder="Name" type="text">
             </label>
@@ -78,3 +78,28 @@
 
 #### Login form
 <a href="#navbar"><img src="https://i.hizliresim.com/dR4NNY.png" title="Login" alt="Login"></a>
+
+### Register form
+```html
+<div class="formContainer">
+     <div class="text-center">
+        <h1>Register form</h1>
+     </div>
+    <form class="form" action="">
+        <label class="label">Email
+            <input class="formElement" placeholder="Email" type="email">
+        </label>
+        <label class="label">Password
+            <input class="formElement" placeholder="Password" type="password">
+        </label>
+        <label class="label">Password again
+            <input class="formElement" placeholder="Password again" type="password">
+        </label>
+        <br>
+        <button class="infoButton">Register</button> <a class=" fPass " href="# ">Do you have a account ?</a>
+    </form>
+ </div>
+```
+
+#### Register
+<a href="#navbar"><img src="https://i.hizliresim.com/BPeusv.png" title="Register" alt="Register"></a>

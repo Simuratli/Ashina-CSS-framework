@@ -427,7 +427,8 @@ p {
 
 input[type=button].btn-block,
 input[type=reset].btn-block,
-input[type=submit].btn-block {
+input[type=submit].btn-block,
+{
     width: 100%;
 }
 
@@ -453,7 +454,7 @@ input[type=submit].btn-block {
 
 input[type=text],
 input[type=password],
-input[type=mail] {
+input[type=email] {
     display: inline-block;
     padding: 5px;
     font-size: 16px;
