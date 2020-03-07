@@ -129,4 +129,20 @@
 </div>
 ```
 ### Simple card example image
-<a href="#card"><img src="https://i.hizliresim.com/6re6rI.png" title="Register" alt="Register"></a>
+<a href="#card"><img src="https://i.hizliresim.com/FrQDsq.png" title="Simple card" alt="Simple card"></a>
+
+
+## Top image card
+> Code example of Top image card
+
+```html
+<div class="card">
+    <div class="cardImg">
+        <img src="/" alt="">
+    </div>
+    <div class="card-body">
+        <h1 class="card-title">Card text</h1>
+         <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus sint magni perferendis laudantium rerum aliquid nostrum quos, accusantium fugit asperiores quidem veniam, unde a quaerat! Blanditiis dicta vel obcaecati natus!</p>
+    </div>
+</div>
+```
