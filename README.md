@@ -150,3 +150,25 @@
 ### Top image card seen like that
 
 <a href="#card"><img src="https://i.hizliresim.com/PNNkXK.png" title="Top image card" alt="Top image card"></a>
+
+
+## Left image card
+> Code example of Left image card
+
+```html
+<div class="card flex">
+    <div class="cardImg">
+        <img src="/" alt="">
+    </div>
+    <div class="card-body">
+        <h1 class="card-title">Card text</h1>
+         <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus sint magni perferendis laudantium rerum aliquid nostrum quos, accusantium fugit asperiores quidem veniam, unde a quaerat! Blanditiis dicta vel obcaecati natus!</p>
+    </div>
+</div>
+```
+>YOU CAN ONLY ADD THE *FLEX* CLASS TO THE CARD DIV YOU TURN YOUR TOP IMAGE CARD TO THE LEFT IMAGE CARD
+> in here you can also use div item with class *card-footer* (inside  card-body div) for adding footer element
+
+### Top image card seen like that
+
+<a href="#card"><img src="https://i.hizliresim.com/PNNkXK.png" title="Top image card" alt="Top image card"></a>
