@@ -314,3 +314,24 @@ The Ashina included flex system with 12 columns.
 .col-11
 .col-12
 ```
+
+#### all this divs must be created in the <div> which have a .row class
+
+```html
+<div class="row">
+    <!-- <div class="col-1"> 1</div>
+    <div class="col-2"> 2</div>
+    <div class="col-3"> 3</div>
+    <div class="col-4"> 4</div>
+    <div class="col-5"> 5</div>
+    <div class="col-6"> 6</div>
+    <div class="col-7"> 7</div>
+    <div class="col-8"> 8</div>
+    <div class="col-9"> 9</div>
+    <div class="col-10"> 10</div>
+    <div class="col-11"> 11</div>
+    <div class="col-12"> 12</div> -->
+</div>
+```
+
+<a href="#buttons"><img src="https://i.hizliresim.com/EjRcOL.jpg" title="Background color" alt="Background color"></a>
