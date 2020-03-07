@@ -77,7 +77,7 @@
 ```
 
 #### Login form
-<a href="#navbar"><img src="https://i.hizliresim.com/dR4NNY.png" title="Login" alt="Login"></a>
+<a href="#form"><img src="https://i.hizliresim.com/dR4NNY.png" title="Login" alt="Login"></a>
 
 ### Register form
 ```html
@@ -102,4 +102,31 @@
 ```
 
 #### Register
-<a href="#navbar"><img src="https://i.hizliresim.com/BPeusv.png" title="Register" alt="Register"></a>
+<a href="#form"><img src="https://i.hizliresim.com/BPeusv.png" title="Register" alt="Register"></a>
+
+# Cards
+> There have a 3 type of cards
+* Left image card
+* Top image card
+* Simple card
+
+## Simple card
+> the template of simple card given below
+
+```html
+<div class="card ">
+    <div class="card-body">
+        <h1 class="card-title">
+            Card title lor
+        </h1>
+        <p class="card-text">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem soluta ipsam ad ea iste expedita, dolorem dolore repudiandae vel neque ipsa atque molestiae ipsum. Asperiores ullam laboriosam rem expedita est?
+        </p>
+        <div class="card-footer">
+            <p>-Simuratli Elcan</p>             
+        </div>
+    </div>
+</div>
+```
+### Simple card example image
+<a href="#card"><img src="https://i.hizliresim.com/6re6rI.png" title="Register" alt="Register"></a>
