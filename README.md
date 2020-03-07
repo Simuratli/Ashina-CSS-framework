@@ -11,7 +11,7 @@
 * [Buttons](#buttons)
 * [Backgoround color](#bgcoolor)
 * [Text color](#textcoolor)
-* [Flex system](#flexbox)
+* [Flex system](#flex)
 
 
 ## Navbar 
@@ -297,7 +297,7 @@ it cover width:100% of html page
 ```
 
 
-# Flex system
+# Flex
 The Ashina included flex system with 12 columns.
 
 ```shell
