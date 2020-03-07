@@ -11,7 +11,7 @@
 * [Buttons](#buttons)
 * [Backgoround color](#bgcoolor)
 * [Text color](#textcoolor)
-* [Flexbox](#flexbox)
+* [Flex system](#flexbox)
 
 
 ## Navbar 
@@ -334,4 +334,4 @@ The Ashina included flex system with 12 columns.
 </div>
 ```
 
-<a href="#buttons"><img src="https://i.hizliresim.com/EjRcOL.jpg" title="Background color" alt="Background color"></a>
+<a href="#buttons"><img src="https://i.hizliresim.com/EjRcOL.jpg" title="Flex " alt="Flex"></a>
