@@ -16,8 +16,8 @@
 
 # Introduction
 
-You can use this framework with download or clone 
-You can also Fork this project
+- You can use this framework with download or clone 
+- You can also Fork this project
 
 ## After downloading
 ### Geting started template
@@ -42,6 +42,11 @@ You can also Fork this project
 </html>
 ```
 
+
+#### Good luck to every one !
+
+
+# COMPONENTS
 
 
 ## Navbar 
