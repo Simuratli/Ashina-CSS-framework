@@ -3,7 +3,7 @@
 > This CSS framework developed by Simuratli and it is free for use.
 
 # Ashina included 
-* [Use](#use)
+* [How to use](#use)
 * [Navbar](#navbar)
 * [Forms](#forms)
 * [Containers](#containers)
@@ -12,6 +12,36 @@
 * [Backgoround color](#bgcoolor)
 * [Text color](#textcoolor)
 * [Flex system](#flex)
+
+
+# How to use
+
+You can use this framework with download or clone 
+You can also Fork this project
+
+## After downloading
+### Geting started template
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/ashina.css">
+    <title>Ashina template</title>
+</head>
+
+<body>
+    <h1>Hello, World</h1>
+    <script src="js/jquery-3.4.1.js "></script>
+    <script src="js/ashina.js "></script>
+</body>
+
+</html>
+```
+
 
 
 ## Navbar 
