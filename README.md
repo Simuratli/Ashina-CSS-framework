@@ -7,6 +7,8 @@
 * [Navbar](#navbar)
 * [Forms](#forms)
 * [Buttons](#buttons)
+* [Backgoround color](#bgcoolor)
+* [Text color](#textcoolor)
 * [Cards](#cards)
 * [Flexbox](#flexbox)
 
@@ -44,3 +46,35 @@
 ```
 *It seen like that* 
 <a href="#navbar"><img src="https://i.hizliresim.com/6INBa9.png" title="Navbar" alt="navbar"></a>
+
+
+
+## Forms
+
+#### There have a 2 type of form 
+* Login 
+* Register
+
+# Login
+
+```html
+  <div class="formContainer">
+      <div class="text-center">
+          <h1>Login form</h1>
+       </div>
+        <form class="form" action="">
+            <label class="label">Name
+                <input class="formElement" placeholder="Name" type="text">
+            </label>
+            <label class="label">Surname
+                <input class="formElement" placeholder="Name" type="text">
+            </label>
+            <br>
+            <button class="successButton">Log in</button> 
+            <a class="fPass" href="#">Forgot password ?</a>
+        </form>
+    </div>
+                ```
+
+    *Login form*
+    <a href="#navbar"><img src="https://i.hizliresim.com/dR4NNY.png" title="Login" alt="Login"></a>

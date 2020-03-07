@@ -576,5 +576,9 @@ input[type=mail] {
     margin-left: 20px;
 }
 
+.text-center {
+    text-align: center;
+}
+
 
 /*# sourceMappingURL=style.css.map */
