@@ -74,7 +74,7 @@
             <a class="fPass" href="#">Forgot password ?</a>
         </form>
     </div>
-                ```
+```
 
     *Login form*
     <a href="#navbar"><img src="https://i.hizliresim.com/dR4NNY.png" title="Login" alt="Login"></a>
