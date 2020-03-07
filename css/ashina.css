@@ -309,7 +309,7 @@ p {
   max-width: 16.666667%;
 }
 
-.col-md-3 {
+.col-3 {
   -ms-flex: 0 0 25%;
   -webkit-box-flex: 0;
           flex: 0 0 25%;
