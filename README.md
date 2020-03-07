@@ -3,7 +3,7 @@
 > This CSS framework developed by Simuratli and it is free for use.
 
 # Ashina included 
-* [How to use](#use)
+* [How to use](#introduction)
 * [Navbar](#navbar)
 * [Forms](#forms)
 * [Containers](#containers)
@@ -14,7 +14,7 @@
 * [Flex system](#flex)
 
 
-# How to use
+# Introduction
 
 You can use this framework with download or clone 
 You can also Fork this project
