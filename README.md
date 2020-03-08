@@ -53,35 +53,33 @@
 
 ```html
 
-  <div class="navbarContainer bgColorDanger">
-                <div class="logo">
-                    <h1>Ashina </h1>
-                </div>
-                <div class="collapse">
-                    <div class="navbarList">
-                        <ul class="listElement">
-                            <li class="listItem"><a href="#">Main</a></li>
-                            <li class="listItem"><a href="#">Content</a></li>
-                            <li class="listItem"><a href="#">Dropdown</a></li>
-                            <li class="listItem"><a href="#">Disable</a></li>
-                        </ul>
-                    </div>
-                    <div class="navbarSearch">
-                        <form action="">
-                            <input class="formElementNav" placeholder="Search" type="text">
-                            <button class="infoButton"><i class="fa fa-search">Search</i></button>
-                        </form>
-                    </div>
-                </div>
-                <div class="hamburger">
-                    <div class="hamLine"></div>
-                    <div class="hamLine"></div>
-                    <div class="hamLine"></div>
-                </div>
-            </div>
+<div class='nav'>
+    <div class="menu-icon">
+        <span class="bar"></span>
+    </div>
+    <div class="logo">
+        <h1>LOGO</h1>
+     </div>
+     <div class="menu">
+        <ul>
+            <li class="nav-item">
+                <a href="#">Main</a>
+            </li>
+            <li class="nav-item">
+                <a href="#">Contact</a>
+            </li>
+            <li class="nav-item">
+                <a href="#">About us</a>
+            </li>
+            <li class="nav-item">
+                <a href="#">Adress</a>
+            </li>
+        </ul>
+    </div>
+</div>
 ```
 *It seen like that* 
-<a href="#navbar"><img src="https://i.hizliresim.com/6INBa9.png" title="Navbar" alt="navbar"></a>
+<a href="#navbar"><img src="https://i.hizliresim.com/jMPYOs.png" title="Navbar" alt="navbar"></a>
 
 
 
